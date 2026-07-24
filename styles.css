@@ -282,11 +282,17 @@ button {
 
 .eyebrow {
   margin: 0 0 16px;
-  color: var(--gold-soft);
-  font-size: 0.76rem;
+  color: var(--clay);
+  font-size: 0.8rem;
   font-weight: 900;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+}
+
+.hero .eyebrow,
+.scope .eyebrow,
+.final-cta .eyebrow {
+  color: var(--gold-soft);
 }
 
 .hero h1,
