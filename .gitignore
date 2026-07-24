@@ -1,0 +1,4 @@
+.netlify/
+.tools/
+node_modules/
+*.zip
